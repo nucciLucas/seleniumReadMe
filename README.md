@@ -4,7 +4,7 @@
 - Once copied, place it in a convenient location (e.g., C:\Projects\SeleniumTest on Windows or ~/Projects/SeleniumTest on macOS/Linux).
 ---
 🖥 Step 2: Install Node.js and npm
-- Download Node.js (LTS version) from nodejs.org.
+- Download Node.js (LTS version) from [nodejs.org](https://nodejs.org/).
 - Install it by following the setup wizard.
 - Verify the installation by running the following commands in Command Prompt/Terminal:
 ```bash
